@@ -1,6 +1,5 @@
 ![TechProjects Banner](https://github.com/TechProjects-BCN/AI-Tutorials/assets/61521609/28a94cfb-cdcf-42f2-a921-8766009cdd1d)
 
-# AI-Tutorials
 Knowledge base for developing AI-related projects. Here you can find any relevant documentation and code to apply to your project.
 If it's the first time you are coding in python. Please check: 
 
