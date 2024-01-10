@@ -8,7 +8,7 @@ If it's the first time you are coding in python. Please check:
 0. **[AIBasics](https://github.com/TechProjects-BCN/AI-Tutorials/blob/main/0.AIBasics.ipynb)**. Where we introduce the concept of AI and simpler but very powerful algorithms and concepts (e.g. Pathfinding, Sentiment Analysis, Probability of events,...)
 1. **[Models](https://github.com/TechProjects-BCN/AI-Tutorials/blob/main/1.Models.ipynb)**. Basics on Models and Pytorch. Also useful for any simple project or basic prototype.
 2. **[Regression](https://github.com/TechProjects-BCN/AI-Tutorials/blob/main/2.Regression.ipynb)**. Useful for any project where we are trying to predict data. (e.g. Temperature rise from indicators, Weather, ...)
-3. **Classification**. For any project where we are trying to get the probability of something belonging to a specific. (e.g. Probability of diabetes, Classifying images,...)
+3. **[Classification](https://github.com/TechProjects-BCN/AI-Tutorials/blob/main/3.Classification.ipynb)**. For any project where we are trying to get the probability of something belonging to a specific. (e.g. Probability of diabetes, Classifying images,...)
 
 # Credits
 For the developing of this repository, we used the following sources:
